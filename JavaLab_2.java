@@ -1,5 +1,4 @@
 package ClassObject;
-// id 21200101341,Hridoy Roy
 //Lab task two
 import java.util.Scanner;
 
